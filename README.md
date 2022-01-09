@@ -1,5 +1,15 @@
 # Readme ~ Sahil
 
+You must have already installed `wasm-pack` and `cargo-generate`:
+
+```bash
+cargo install wasm-pack
+cargo install cargo-generate
+
+# Now you can start developing wasm via:
+./watchWasmBuild.sh
+```
+
 Source:
 
 https://rustwasm.github.io/docs/book/game-of-life/hello-world.html
